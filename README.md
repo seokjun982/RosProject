@@ -28,11 +28,12 @@
    
    - 2월 28일: Remote Pc와 Jetson Nano간의 ssh통신을 통해 SLAM기동, 맵 작성 및 유선 구동
       ![slam](https://user-images.githubusercontent.com/54785186/236635038-c7c47544-ffe8-469c-8dc6-7a396508e717.jpeg)
-   - 3월 5일: Yolov5 예제코드를 이용하여 객체분석, 젯슨나노 환경설정 종료
       
+   - 3월 5일: Yolov5 예제코드를 이용하여 객체분석, 젯슨나노 환경설정 종료
+      ![yolo](https://user-images.githubusercontent.com/54785186/236635140-bc3f60fc-b413-45ac-9eaa-a614fe9a8154.jpg)
    
-   - 10월 22일: Big Data Capstone 중간 발표회 포스터 제작 및 토의
-      - ![중간발표 포스터](./reports/capston_poster.png)
+   - 3월 22일: Lane detection 직진 성공 후 수치 조절
+      
 
    - 10월 29일 - 11월 19일: 모델에 대한 토의 및 실험 결과 공유
    
