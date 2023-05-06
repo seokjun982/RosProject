@@ -27,7 +27,7 @@
    - 2월 17일: 부품리스트 결정
    
    - 10월 8일: Remote Pc와 Jetson Nano간의 ssh통신을 통해 SLAM기동, 맵 작성 및 유선 구동
-   
+      ![slam](https://user-images.githubusercontent.com/54785186/236635038-c7c47544-ffe8-469c-8dc6-7a396508e717.jpeg)
    - 10월 15일: 모델에 대한 토의 및 실험 결과 공유
    
    - 10월 22일: Big Data Capstone 중간 발표회 포스터 제작 및 토의
