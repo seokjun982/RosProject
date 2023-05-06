@@ -43,15 +43,9 @@
      
       ![traffic2](https://user-images.githubusercontent.com/54785186/236635358-5b1e9bec-25ee-4af0-b8dc-1d188dbf796e.png)
    
-   - 11월 19일: traffic sign을 인식하여 좌회전을 인식하여 운행하는 intersection 미션 성공. 주차장 장소를 인식하고 주차선과 주차 장소를 탐색하여 주차하는 데까지 성공함
+   - 3월 27일: traffic sign을 인식하여 좌회전을 인식하여 운행하는 intersection 미션 성공. 주차장 장소를 인식하고 주차선과 주차 장소를 탐색하여 주차하는 데까지 성공함
+      ![parking](https://user-images.githubusercontent.com/54785186/236635495-259365bc-6827-4bc1-8a60-4ca5ed9d699e.png)
    
-   
-   - 11월 25일: 한림대 성심병원 수면다원평가실 방문 및 협의
-      - ![방문협의](./images/psg1.jpg)
-      - ![방문협의](./images/psg2.jpg)
-      - ![방문협의](./images/psg3.jpg)
+   - 3월 28일: 보고서 작성
       
 
-
-### 좋은 자료
-   - [자료 1: Spindle 검출 알고리즘 등등](https://raphaelvallat.com/)
