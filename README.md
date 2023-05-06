@@ -33,9 +33,12 @@
       ![yolo](https://user-images.githubusercontent.com/54785186/236635140-bc3f60fc-b413-45ac-9eaa-a614fe9a8154.jpg)
    
    - 3월 22일: Lane detection 직진 성공 후 수치 조절
-      
+      ![white](https://user-images.githubusercontent.com/54785186/236635232-b3e26eed-3101-49fa-b9eb-6d4d98454508.png)
+      ![yellow2](https://user-images.githubusercontent.com/54785186/236635246-e475bb44-8c0f-4469-8994-7e34d6afda34.png)
 
-   - 10월 29일 - 11월 19일: 모델에 대한 토의 및 실험 결과 공유
+   - 3월 24일: traffic sign 미션 성공 
+   
+   - 11월 19일: 모델에 대한 토의 및 실험 결과 공유
    
    - 11월 25일: 한림대 성심병원 수면다원평가실 방문 및 협의
       - ![방문협의](./images/psg1.jpg)
