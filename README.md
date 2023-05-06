@@ -38,7 +38,7 @@
    
    - 3월 24일: traffic sign 미션 성공 
         ![traffic1](https://user-images.githubusercontent.com/54785186/236635813-d5bd49bd-e29e-4053-8cd9-bb0fe527be5c.png)
-   
+        ![traffic2](https://user-images.githubusercontent.com/54785186/236635890-98acd275-b8eb-4e07-95a5-92f545364403.png)
    - 3월 27일: traffic sign을 인식하여 좌회전을 인식하여 운행하는 intersection 미션 성공. 주차장 장소를 인식하고 주차선과 주차 장소를 탐색하여 주차하는 데까지 성공함
       ![parking](https://user-images.githubusercontent.com/54785186/236635495-259365bc-6827-4bc1-8a60-4ca5ed9d699e.png)
    
