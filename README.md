@@ -20,13 +20,13 @@
       - 과제: ROS,Turtlebot3, 란 무엇인지 공부하기!
       ![meeting](https://user-images.githubusercontent.com/54785186/236608586-330347c1-9044-49c2-b8e5-2a7644169b94.jpeg)
    
-   - 9월 11일: 데이터 활용 지도 및 공유
+   - 2월 14일: 젯슨나노 환경설정(Tensorflow2.4.1, Ubuntu 20.04, OpenCV)완료
    
-   - 9월 18일: 논문 발표
+   - 2월 16일: 아이디어 수정(V2X)
 
-   - 9월 25일: 1차 데이터 준비 : Colab에서 Jupyter Note 구성
+   - 2월 17일: 부품리스트 결정
    
-   - 10월 8일: 2차 데이터 준비/완료: Colab에서 공공데이터 준비 및 Simple Classification [Codes](https://github.com/jeonggunlee/SleepCapstone/tree/master/Codes)
+   - 10월 8일: Remote Pc와 Jetson Nano간의 ssh통신을 통해 SLAM기동, 맵 작성 및 유선 구동
    
    - 10월 15일: 모델에 대한 토의 및 실험 결과 공유
    
