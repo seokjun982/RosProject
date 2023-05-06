@@ -18,7 +18,7 @@
 ### 진행 사항
    - 9월 4일: Kick off meeting - 멤버간 인사 및 과제 개요 공유
       - 과제: ROS,Turtlebot3, 란 무엇인지 공부하기!
-      ![첫 미팅](./images/meeting)
+      ![meeting](https://user-images.githubusercontent.com/54785186/236608586-330347c1-9044-49c2-b8e5-2a7644169b94.jpeg)
    
    - 9월 11일: 데이터 활용 지도 및 공유
    
