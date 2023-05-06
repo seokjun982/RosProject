@@ -35,8 +35,6 @@
    - 3월 22일: Lane detection 직진 성공 후 수치 조절
       ![white](https://user-images.githubusercontent.com/54785186/236635232-b3e26eed-3101-49fa-b9eb-6d4d98454508.png)
       ![yellow2](https://user-images.githubusercontent.com/54785186/236635246-e475bb44-8c0f-4469-8994-7e34d6afda34.png)
-
-   
    
    - 3월 24일: traffic sign 미션 성공 
       ![traffic1](https://user-images.githubusercontent.com/54785186/236635352-607b9af1-3937-4741-8c55-adb1a5cc7c54.png)
